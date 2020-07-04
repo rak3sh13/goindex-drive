@@ -11,9 +11,9 @@ Origin https://github.com/donwa/goindex
 
 #### Screenshot
 Light Theme
-![Light Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-light.png)
+![Light Theme](https://raw.githubusercontent.com/venom3525/goindex-drive/master/screenshot/material-light.png)
 
-Dark Theme![Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-dark.png)
+Dark Theme![Dark Theme](https://raw.githubusercontent.com/venom3525/goindex-drive/master/screenshot/material-dark.png)
 
 ---
 - Light or Dark Themes
